@@ -12,7 +12,6 @@ import { BiLogoBlender } from "react-icons/bi";
 
 import Project1 from "../assets/Project1.png";
 import Project2 from "../assets/Project2.png";
-import { BlueText } from "../styles/Global.styled";
 
 export const Skills = [
   {
